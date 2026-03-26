@@ -60,7 +60,7 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 ![Azure DevOps](https://img.shields.io/badge/Ferramenta-Azure_DevOps-blue)
 ![HP ALM](https://img.shields.io/badge/Ferramenta-HP_ALM-blue)
-![CRM Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft-Dynamics-365-blue)
+![CRM Microsoft Dynamics 365](https://img.shields.io/badge/Ferramenta-Microsoft_Dynamics_365-blue)
 ![Jira](https://img.shields.io/badge/Ferramenta-Jira-blue)
 ![SQL (consultas para validação de dados)](https://img.shields.io/badge/Ferramenta-SQL-blue)
 ![Agile](https://img.shields.io/badge/Metodologia-Agile-orange)
@@ -76,6 +76,7 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 ## 📝 Certificações:
 
 -CSPO – Certified Scrum Product Owner (Scrum Alliance)
+
 -CTFL – Certified Tester Foundation Level (ISTQB – em andamento) 
 
 
