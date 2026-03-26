@@ -52,11 +52,8 @@ No meu dia a dia utilizo **Inteligência Artificial como apoio no processo de QA
 
 Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, permitindo que possamos focar cada vez mais em **análise crítica, qualidade do produto e melhoria contínua dos processos.**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</p>
-
 ---
+
 **FORMAÇÃO ACADÊMICA**
 
 🚀	Pós-graduação em Automação de Testes de Software - Em andamento. Conclusão em Dez/2026
