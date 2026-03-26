@@ -39,11 +39,17 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 ## 🔎 Principais empresas onde atuei:
 
 -Oi/Telemar
+
 -TV Globo
+
 -Porto Seguro
+
 -Mills
+
 -Accenture
+
 -CSC / DXC Technology
+
 -DB
 
 <p align="center">
