@@ -63,11 +63,12 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 ![CRM Microsoft Dynamics 365](https://img.shields.io/badge/Ferramenta-Microsoft_Dynamics_365-blue)
 ![Jira](https://img.shields.io/badge/Ferramenta-Jira-blue)
 ![Agile](https://img.shields.io/badge/Metodologia-Agile-orange)
-![API Testing](https://img.shields.io/badge/Testes-API_Testing-purple)
-![SQL (consultas para validação de dados)](https://img.shields.io/badge/Testes-SQL-purple)
+![API Testing](https://img.shields.io/badge/Testes-API_Testing-brightgreen)
+![SQL (consultas para validação de dados)](https://img.shields.io/badge/Testes-SQL-brightgreen)
 ![Testes Web](https://img.shields.io/badge/Testes-Web_Testing-brightgreen)
 ![Testes Mobile](https://img.shields.io/badge/Testes-Mobile_Testing-brightgreen)
 ![Lógica de Programação](https://img.shields.io/badge/Estudos-Lógica_de_Programação-yellowgreen)
+![Java Script](https://img.shields.io/badge/Estudos-Java_Script-yellowgreen)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
