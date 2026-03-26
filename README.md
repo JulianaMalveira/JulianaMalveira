@@ -72,7 +72,10 @@ Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, 
 
   Universidade Paulista
   
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 
 ## 🔎 Minha atuação
 
