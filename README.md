@@ -35,12 +35,24 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 ## 🧰 Ferramentas e Tecnologias
 
 ![QA](https://img.shields.io/badge/QA-Quality_Assurance-green)
-![Testing](https://img.shields.io/badge/Testes-Software_Testing-blue)
+
 ![Agile](https://img.shields.io/badge/Metodologia-Agile-orange)
-![TestCases](https://img.shields.io/badge/Testes-Casos_de_Teste-yellow)
-![BugTracking](https://img.shields.io/badge/Bugs-Bug_Tracking-red)
-![API](https://img.shields.io/badge/Testes-API_Testing-purple)
-![Postman](https://img.shields.io/badge/Ferramenta-Postman-orange)
+
+![API Testing](https://img.shields.io/badge/Testes-API_Testing-purple)
+
+![HP ALM](https://img.shields.io/badge/Ferramenta-HP_ALM-blue)
+
+![Azure DevOps](https://img.shields.io/badge/Ferramenta-Azure_DevOps-blue)
+
+![Jira](https://img.shields.io/badge/Ferramenta-Jira-blue)
+
+![Trello](https://img.shields.io/badge/Ferramenta-Trello-blue)
+
+![Testes Web](https://img.shields.io/badge/Testes-Web_Testing-brightgreen)
+
+![Testes Mobile](https://img.shields.io/badge/Testes-Mobile_Testing-brightgreen)
+
+![Lógica de Programação](https://img.shields.io/badge/Estudos-Lógica_de_Programação-yellowgreen)
 
 ---
 
