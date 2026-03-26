@@ -33,26 +33,6 @@ Você pode baixar meu currículo completo no link abaixo:
 Analista de Teste de Software apaixonada por qualidade de sistemas e melhoria contínua. Experiência em testes funcionais **Web e Mobile**, análise de requisitos e validação de sistemas corporativos, colaborando com **times ágeis** para garantir entregas estáveis e confiáveis.
 Minha atuação é focada em **antecipar riscos, identificar falhas críticas e contribuir para a evolução contínua da qualidade dos produtos.**
 
-**FORMAÇÃO ACADÊMICA**
-
-🚀	Pós-graduação em Automação de Testes de Software - Em andamento. Conclusão em Dez/2026
-
-  Faculdade VINCIT/Julio de Lima
-   
-🚀	Pós-graduação em Tecnologia da Informação para Estratégia de Negócios – Conclusão: 2020 
-  
-  Universidade Paulista
-
-🚀 Graduação em Gestão da Tecnologia da Informação – Conclusão: 2020
-
-  Universidade Paulista
-  
-🚀	MBA Executivo em Gestão Empresarial – Conclusão: 2021
-
-  Universidade Paulista
-  
-
-
 No meu dia a dia utilizo **Inteligência Artificial como apoio no processo de QA**, otimizando atividades como análise de requisitos, criação de cenários de teste, revisão de casos de teste e apoio na escrita de consultas e scripts.
 
 **O uso de IA tem contribuído para:**
@@ -76,6 +56,26 @@ Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
+---
+**FORMAÇÃO ACADÊMICA**
+
+🚀	Pós-graduação em Automação de Testes de Software - Em andamento. Conclusão em Dez/2026
+
+  Faculdade VINCIT/Julio de Lima
+   
+🚀	Pós-graduação em Tecnologia da Informação para Estratégia de Negócios – Conclusão: 2020 
+  
+  Universidade Paulista
+
+🚀 Graduação em Gestão da Tecnologia da Informação – Conclusão: 2020
+
+  Universidade Paulista
+  
+🚀	MBA Executivo em Gestão Empresarial – Conclusão: 2021
+
+  Universidade Paulista
+  
+---
 
 ## 🔎 Minha atuação
 
