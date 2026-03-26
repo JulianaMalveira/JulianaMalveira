@@ -125,6 +125,15 @@ Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, 
 </p>
 
 
+## 📝 Artigos:
+
+https://www.linkedin.com/pulse/como-intelig%C3%AAncia-artificial-tem-transformado-meu-dia-malveira-mba-k0hkf/?trackingId=X3CJQRl2TFe15GEkSXX8zQ%3D%3D
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+
 ## 📝 Certificações:
 
 🚀 CSPO – Certified Scrum Product Owner (Scrum Alliance)
