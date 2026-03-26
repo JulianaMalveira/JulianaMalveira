@@ -1,7 +1,7 @@
 # Olá, eu sou Juliana Malveira 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Qualidade+de+Software;Testes+Manuais;Testes+Exploratórios;Testes+Automatizados;Analista+de+Testes+%7C+QA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Qualidade+de+Software;Testes+Manuais;Testes+Exploratórios;Testes+de+API;Analista+de+Homologação+Gestão de testes " />
 </p>
 
 ---
@@ -44,36 +44,6 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 ---
 
-## 🏆 Troféus do GitHub
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=SEUUSUARIO\&theme=tokyonight)
-
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 Sequência de Contribuições
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO\&theme=tokyonight)
-
----
-
-## 💻 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
-
----
-
-## 📈 Gráfico de contribuições
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO\&theme=tokyo-night)
-
----
-
 ## 👀 Visitantes do perfil
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SEUUSUARIO\&color=blue)
@@ -83,5 +53,6 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 ## 📫 Contato
 
 LinkedIn: https://www.linkedin.com/in/juliana-malveira-mba/
+
 Email: ju.analista@gmail.com
 
