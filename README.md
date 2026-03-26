@@ -55,11 +55,17 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 ## 🔎 Principais empresas onde trabalhei:
 
 🏢 Oi / Telemar
+
 🏢 TV Globo
+
 🏢 Porto Seguro
+
 🏢 Mills
+
 🏢 Accenture
+
 🏢 CSC / DXC Technology
+
 🏢 DB
 
 <p align="center">
@@ -105,7 +111,7 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 ## 👀 Visitantes do perfil
 
-![Profile Views](https://komarev.com/ghpvc/?username=julianamalveira\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=SEUUSUARIO\&color=blue)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
