@@ -1,20 +1,87 @@
-## Olá, eu sou Juliana Malveira 👋
+# Olá, eu sou Juliana Malveira 👋
 
-Analista de teste de Software apaixonada por qualidade de sistemas e melhoria contínua. Experiência em testes funcionais Web e Mobile, análise de requisitos e validação de sistemas corporativos, colaborando com times ágeis para garantir entregas estáveis e confiáveis. Minha atuação é focada em antecipar riscos, identificar falhas críticas e contribuir para a evolução contínua da qualidade dos produtos.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Qualidade+de+Software;Testes+Manuais;Testes+Exploratórios;Testes+Automatizados;Analista+de+Testes+%7C+QA" />
+</p>
 
-Sobre mim:
+---
+
+## 👩‍💻 Sobre mim
+
+Analista de teste de Software apaixonada por qualidade de sistemas e melhoria contínua. Experiência em testes funcionais Web e Mobile, análise de requisitos e validação de sistemas corporativos, colaborando com times ágeis para garantir entregas estáveis e confiáveis.
+
+Minha atuação é focada em antecipar riscos, identificar falhas críticas e contribuir para a evolução contínua da qualidade dos produtos.
+
+---
+
+## 🔎 Minha atuação
 
 🧪 QA com foco em garantir qualidade como parte do processo de desenvolvimento, atuando desde a análise de requisitos e planejamento até a execução de testes e homologação.
 
 🔍 Experiência em testes manuais, exploratórios, regressivos e de homologação, assegurando aderência às regras de negócio e critérios de aceitação.
 
-📝 Vivência na escrita de histórias de usuário e definição de critérios de aceitação, atuando como Product Owner e Scrum Master, o que contribui para uma visão estratégica do produto e melhor colaboração com times ágeis.
+📝 Vivência na escrita de histórias de usuário e definição de critérios de aceitação, atuando como Product Owner e Scrum Master.
 
-🗂️ Experiência na criação e organização de casos de teste, planos de teste, evidências e relatórios de defeitos, garantindo rastreabilidade e documentação clara.
+🗂️ Experiência na criação e organização de casos de teste, planos de teste, evidências e relatórios de defeitos.
 
-🐞 Registro e gestão de defeitos (bugs) com descrição detalhada, passos para reprodução e evidências, apoiando o time na identificação e resolução rápida de problemas.
+🐞 Registro e gestão de defeitos (bugs) com descrição detalhada, passos para reprodução e evidências.
 
-📊 Experiência com ferramentas de gestão de testes, acompanhamento de métricas e indicadores de qualidade (KPIs).
+📊 Experiência com ferramentas de gestão de testes e acompanhamento de métricas de qualidade.
 
-🌱 Atualmente em processo de evolução técnica para automação de testes, aprofundando conhecimentos em algoritmos e lógica de programação.
+🌱 Atualmente evoluindo tecnicamente para automação de testes, estudando algoritmos e lógica de programação.
+
+---
+
+## 🧰 Ferramentas e Tecnologias
+
+![QA](https://img.shields.io/badge/QA-Quality_Assurance-green)
+![Testing](https://img.shields.io/badge/Testes-Software_Testing-blue)
+![Agile](https://img.shields.io/badge/Metodologia-Agile-orange)
+![TestCases](https://img.shields.io/badge/Testes-Casos_de_Teste-yellow)
+![BugTracking](https://img.shields.io/badge/Bugs-Bug_Tracking-red)
+![API](https://img.shields.io/badge/Testes-API_Testing-purple)
+![Postman](https://img.shields.io/badge/Ferramenta-Postman-orange)
+
+---
+
+## 🏆 Troféus do GitHub
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=SEUUSUARIO\&theme=tokyonight)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Sequência de Contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO\&theme=tokyonight)
+
+---
+
+## 💻 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📈 Gráfico de contribuições
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO\&theme=tokyo-night)
+
+---
+
+## 👀 Visitantes do perfil
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEUUSUARIO\&color=blue)
+
+---
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/juliana-malveira-mba/
+Email: ju.analista@gmail.com
 
