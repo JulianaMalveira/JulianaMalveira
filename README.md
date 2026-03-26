@@ -38,19 +38,19 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 ## 🔎 Principais empresas onde trabalhei:
 
--Oi/Telemar
+🤝 Oi/Telemar
 
--TV Globo
+🤝 TV Globo
 
--Porto Seguro
+🤝 Porto Seguro
 
--Mills
+🤝 Mills
 
--Accenture
+🤝 Accenture
 
--CSC / DXC Technology
+🤝 CSC / DXC Technology
 
--DB
+🤝 DB
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -82,9 +82,9 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 ## 📝 Certificações:
 
--CSPO – Certified Scrum Product Owner (Scrum Alliance)
+🚀 CSPO – Certified Scrum Product Owner (Scrum Alliance)
 
--CTFL – Certified Tester Foundation Level (ISTQB – em andamento) 
+🚀 CTFL – Certified Tester Foundation Level (ISTQB – em andamento) 
 
 
 <p align="center">
