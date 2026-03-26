@@ -12,7 +12,7 @@ Analista de teste de Software apaixonada por qualidade de sistemas e melhoria co
 
 Minha atuação é focada em antecipar riscos, identificar falhas críticas e contribuir para a evolução contínua da qualidade dos produtos.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750237-3c8b9d45-4b36-4f52-b9c4-5a0a8c6e64b2.gif">
 
 ## 🔎 Minha atuação
 
@@ -30,7 +30,19 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 🌱 Atualmente evoluindo tecnicamente para automação de testes, estudando algoritmos e lógica de programação.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750237-3c8b9d45-4b36-4f52-b9c4-5a0a8c6e64b2.gif">
+
+## 🔎 Principais empresas onde atuei:
+
+Oi/Telemar
+TV Globo
+Porto Seguro
+Mills
+Accenture
+CSC / DXC Technology
+DB
+
+<img src="https://user-images.githubusercontent.com/74038190/212750237-3c8b9d45-4b36-4f52-b9c4-5a0a8c6e64b2.gif">
 
 ## 🧰 Ferramentas e Tecnologias
 
@@ -54,7 +66,7 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 ![Lógica de Programação](https://img.shields.io/badge/Estudos-Lógica_de_Programação-yellowgreen)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750237-3c8b9d45-4b36-4f52-b9c4-5a0a8c6e64b2.gif">
 
 ## 👀 Visitantes do perfil
 
