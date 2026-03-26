@@ -52,26 +52,6 @@ No meu dia a dia utilizo **Inteligência Artificial como apoio no processo de QA
 
 Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, permitindo que possamos focar cada vez mais em **análise crítica, qualidade do produto e melhoria contínua dos processos.**
 
----
-
-**FORMAÇÃO ACADÊMICA**
-
-🚀	Pós-graduação em Automação de Testes de Software - Em andamento. Conclusão em Dez/2026
-
-  Faculdade VINCIT/Julio de Lima
-   
-🚀	Pós-graduação em Tecnologia da Informação para Estratégia de Negócios – Conclusão: 2020 
-  
-  Universidade Paulista
-
-🚀 Graduação em Gestão da Tecnologia da Informação – Conclusão: 2020
-
-  Universidade Paulista
-  
-🚀	MBA Executivo em Gestão Empresarial – Conclusão: 2021
-
-  Universidade Paulista
-  
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -204,6 +184,26 @@ https://www.linkedin.com/pulse/como-intelig%C3%AAncia-artificial-tem-transformad
 
 🚀 CTFL – Certified Tester Foundation Level (ISTQB – em andamento) 
 
+---
+
+**FORMAÇÃO ACADÊMICA**
+
+🚀	Pós-graduação em Automação de Testes de Software - Em andamento. Conclusão em Dez/2026
+
+  Faculdade VINCIT/Julio de Lima
+   
+🚀	Pós-graduação em Tecnologia da Informação para Estratégia de Negócios – Conclusão: 2020 
+  
+  Universidade Paulista
+
+🚀 Graduação em Gestão da Tecnologia da Informação – Conclusão: 2020
+
+  Universidade Paulista
+  
+🚀	MBA Executivo em Gestão Empresarial – Conclusão: 2021
+
+  Universidade Paulista
+  
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
