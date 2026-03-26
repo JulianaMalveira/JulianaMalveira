@@ -4,7 +4,21 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Qualidade+de+Software;Testes+Manuais;Testes+Exploratórios;Testes+de+API;Homologação;Gestão+de+testes" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+
+## 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/juliana-malveira-mba/
+
+Email: ju.analista@gmail.com
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 
 ## 👩‍💻 Sobre mim
 
@@ -15,6 +29,7 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
+
 
 ## 🔎 Minha atuação
 
@@ -36,6 +51,7 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
+
 ## 🔎 Principais empresas onde trabalhei:
 
 🤝 Oi/Telemar
@@ -55,6 +71,7 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
+
 
 ## 🧰 Ferramentas e Tecnologias
 
@@ -80,12 +97,12 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
+
 ## 📝 Certificações:
 
 🚀 CSPO – Certified Scrum Product Owner (Scrum Alliance)
 
 🚀 CTFL – Certified Tester Foundation Level (ISTQB – em andamento) 
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -99,10 +116,4 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
-
-## 📫 Contato
-
-LinkedIn: https://www.linkedin.com/in/juliana-malveira-mba/
-
-Email: ju.analista@gmail.com
 
