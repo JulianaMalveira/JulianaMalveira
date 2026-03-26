@@ -125,8 +125,13 @@ Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, 
 </p>
 
 
-## 📝 Artigos:
+## 💡 Artigos
 
+📖 **IA no dia a dia do QA: saindo do hype e entrando na prática**
+
+Compartilho minha experiência utilizando Inteligência Artificial para apoiar atividades de QA como análise de requisitos, criação de cenários de teste e investigação de defeitos.
+
+🔗 Leia no LinkedIn:  
 https://www.linkedin.com/pulse/como-intelig%C3%AAncia-artificial-tem-transformado-meu-dia-malveira-mba-k0hkf/?trackingId=X3CJQRl2TFe15GEkSXX8zQ%3D%3D
 
 <p align="center">
