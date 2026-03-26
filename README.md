@@ -70,9 +70,39 @@ Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, 
 
 🐞 Registro e gestão de defeitos (bugs) com descrição detalhada, passos para reprodução e evidências.
 
-📊 Experiência com ferramentas de gestão de testes e acompanhamento de métricas de qualidade.
+📊 Experiência com ferramentas de gestão de testes e acompanhamento de métricas de qualidade como: HP ALM, Azure DevOPs.
 
-🌱 Atualmente evoluindo tecnicamente para automação de testes, estudando algoritmos e lógica de programação.
+## 🧪 Projetos de QA
+
+🔹 **Testes de Fluxo de Chatbot (WhatsApp + Dynamics)**  
+Validação de fluxo de atendimento automatizado, testes exploratórios e homologação.
+
+🔹 **Projeto de Venda da Oi Móvel**
+
+🔹 **Projeto de Venda da Oi Móvel**
+
+Atuei como **líder de testes responsável pelo time da Oi**, realizando a gestão e o acompanhamento de um projeto estratégico relacionado ao processo de venda da Oi Móvel para o trio de compradoras (Claro, Vivo e TIM).
+
+O projeto possuía requisitos regulatórios definidos pela Agência Nacional de Telecomunicações (Anatel), exigindo alto nível de controle, rastreabilidade e qualidade nas entregas.
+
+Foram **mais de 5.000 casos de testes executados e validados**, distribuídos em **3 ondas do projeto**, garantindo cobertura adequada dos fluxos críticos de negócio.
+
+Minhas principais contribuições incluíram:
+
+* Estruturação do alinhamento entre áreas de negócio e tecnologia
+* Acompanhamento das entregas ao longo das ondas de testes
+* Validação e refinamento de requisitos
+* Suporte às etapas de testes e homologação para garantir aderência às regras regulatórias e qualidade da solução
+* Gestão e rastreabilidade dos defeitos
+* Gestão das fábricas de testes/fornecedores envolvidos no projeto.
+
+
+🔹 **Automação de Testes (Estudos)**  
+Exercícios de lógica, algoritmos, Portugol e JavaScript.
+
+🔹 **IA aplicada a QA**  
+Uso de inteligência artificial para geração de cenários de teste, análise de requisitos e aumento de produtividade.
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
