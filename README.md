@@ -34,6 +34,19 @@ Analista de teste de Software apaixonada por qualidade de sistemas e melhoria co
 
 Minha atuação é focada em antecipar riscos, identificar falhas críticas e contribuir para a evolução contínua da qualidade dos produtos.
 
+No meu dia a dia utilizo Inteligência Artificial como apoio no processo de QA, otimizando atividades como análise de requisitos, criação de cenários de teste, revisão de casos de teste e apoio na escrita de consultas e scripts.
+
+O uso de IA tem contribuído para:
+
+⚡ Aumentar a produtividade na criação e revisão de casos de teste
+🔍 Identificar cenários de teste e riscos com mais rapidez
+🧠 Apoiar na análise de requisitos e regras de negócio
+🧹 Melhorar a organização e clareza da documentação de testes
+💻 Auxiliar na escrita de lógica de programação e automação de testes
+📊 Acelerar investigações durante análise de defeitos
+
+Acredito que a Inteligência Artificial é uma grande aliada do QA moderno, permitindo que possamos focar cada vez mais em análise crítica, qualidade do produto e melhoria contínua dos processos.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
