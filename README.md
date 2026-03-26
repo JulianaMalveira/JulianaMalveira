@@ -58,29 +58,31 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 ## 🧰 Ferramentas e Tecnologias
 
-![QA](https://img.shields.io/badge/QA-Quality_Assurance-green)
-
-![Agile](https://img.shields.io/badge/Metodologia-Agile-orange)
-
-![API Testing](https://img.shields.io/badge/Testes-API_Testing-purple)
-
-![HP ALM](https://img.shields.io/badge/Ferramenta-HP_ALM-blue)
-
 ![Azure DevOps](https://img.shields.io/badge/Ferramenta-Azure_DevOps-blue)
-
+![HP ALM](https://img.shields.io/badge/Ferramenta-HP_ALM-blue)
+![CRM Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft-Dynamics-365-blue)
 ![Jira](https://img.shields.io/badge/Ferramenta-Jira-blue)
-
-![Trello](https://img.shields.io/badge/Ferramenta-Trello-blue)
-
+![SQL (consultas para validação de dados)](https://img.shields.io/badge/Ferramenta-SQL-blue)
+![Agile](https://img.shields.io/badge/Metodologia-Agile-orange)
+![API Testing](https://img.shields.io/badge/Testes-API_Testing-purple)
 ![Testes Web](https://img.shields.io/badge/Testes-Web_Testing-brightgreen)
-
 ![Testes Mobile](https://img.shields.io/badge/Testes-Mobile_Testing-brightgreen)
-
 ![Lógica de Programação](https://img.shields.io/badge/Estudos-Lógica_de_Programação-yellowgreen)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
+
+## 📝 Certificações:
+
+-CSPO – Certified Scrum Product Owner (Scrum Alliance)
+-CTFL – Certified Tester Foundation Level (ISTQB – em andamento) 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 
 ## 👀 Visitantes do perfil
 
