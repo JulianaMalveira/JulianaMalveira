@@ -35,13 +35,20 @@ Minha atuação é focada em **antecipar riscos, identificar falhas críticas e 
 
 **FORMAÇÃO ACADÊMICA**
 ·	Graduação em Gestão da Tecnologia da Informação – Conclusão: 2020
+
   Universidade Paulista
+  
 ·	Pós-graduação em Tecnologia da Informação para Estratégia de Negócios – Conclusão: 2020 
+
   Universidade Paulista
+  
 ·	MBA Executivo em Gestão Empresarial – Conclusão: 2021
+
   Universidade Paulista
+  
 ·	Pós-graduação em Automação de Testes de Software - Em andamento. Conclusão em Dez/2026
-  Faculdade VINCIT – 
+
+  Faculdade VINCIT/Julio de Lima
 
 No meu dia a dia utilizo **Inteligência Artificial como apoio no processo de QA**, otimizando atividades como análise de requisitos, criação de cenários de teste, revisão de casos de teste e apoio na escrita de consultas e scripts.
 
