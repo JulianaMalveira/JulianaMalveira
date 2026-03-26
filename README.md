@@ -12,7 +12,9 @@ Analista de teste de Software apaixonada por qualidade de sistemas e melhoria co
 
 Minha atuação é focada em antecipar riscos, identificar falhas críticas e contribuir para a evolução contínua da qualidade dos produtos.
 
-<img src="https://user-images.githubusercontent.com/74038190/212750237-3c8b9d45-4b36-4f52-b9c4-5a0a8c6e64b2.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 🔎 Minha atuação
 
@@ -30,19 +32,23 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 🌱 Atualmente evoluindo tecnicamente para automação de testes, estudando algoritmos e lógica de programação.
 
-<img src="https://user-images.githubusercontent.com/74038190/212750237-3c8b9d45-4b36-4f52-b9c4-5a0a8c6e64b2.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 🔎 Principais empresas onde atuei:
 
-Oi/Telemar
-TV Globo
-Porto Seguro
-Mills
-Accenture
-CSC / DXC Technology
-DB
+-Oi/Telemar
+-TV Globo
+-Porto Seguro
+-Mills
+-Accenture
+-CSC / DXC Technology
+-DB
 
-<img src="https://user-images.githubusercontent.com/74038190/212750237-3c8b9d45-4b36-4f52-b9c4-5a0a8c6e64b2.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 🧰 Ferramentas e Tecnologias
 
@@ -66,13 +72,17 @@ DB
 
 ![Lógica de Programação](https://img.shields.io/badge/Estudos-Lógica_de_Programação-yellowgreen)
 
-<img src="https://user-images.githubusercontent.com/74038190/212750237-3c8b9d45-4b36-4f52-b9c4-5a0a8c6e64b2.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 👀 Visitantes do perfil
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SEUUSUARIO\&color=blue)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 ## 📫 Contato
 
