@@ -102,10 +102,10 @@ Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, 
 
 ## 🧰 Ferramentas e Tecnologias
 
-![AI](https://img.shields.io/badge/AI-chatGPT-purple)
-![AI](https://img.shields.io/badge/AI-NotebookLM-purple)
-![AI](https://img.shields.io/badge/AI-Copilot-purple)
-![AI](https://img.shields.io/badge/AI-Claude-purple)
+![IA](https://img.shields.io/badge/AI-chatGPT-purple)
+![IA](https://img.shields.io/badge/AI-NotebookLM-purple)
+![IA](https://img.shields.io/badge/AI-Copilot-purple)
+![IA](https://img.shields.io/badge/AI-Claude-purple)
 
 ![Azure DevOps](https://img.shields.io/badge/Ferramenta-Azure_DevOps-blue)
 ![HP ALM](https://img.shields.io/badge/Ferramenta-HP_ALM-blue)
