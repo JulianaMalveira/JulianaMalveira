@@ -91,6 +91,11 @@ Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, 
 
 📊 Experiência com ferramentas de gestão de testes e acompanhamento de métricas de qualidade como: HP ALM, Azure DevOPs.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+
 ## 🧪 Projetos de QA
 
 🔹 **Testes de Fluxo de Chatbot (WhatsApp + Dynamics)**  
