@@ -76,8 +76,8 @@ Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, 
 
 🔹 **Testes de Fluxo de Chatbot (WhatsApp + Dynamics)**  
 Validação de fluxo de atendimento automatizado, testes exploratórios e homologação.
-
-🔹 **Projeto de Venda da Oi Móvel**
+Implantação dos módulos de CRM: Marketing, Vendas e Atendimento.
+Testes de integração com sistemas legados SAP, Frete, Logística e APIs. 
 
 🔹 **Projeto de Venda da Oi Móvel**
 
