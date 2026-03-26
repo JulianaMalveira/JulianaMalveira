@@ -39,11 +39,17 @@ No meu dia a dia utilizo Inteligência Artificial como apoio no processo de QA, 
 O uso de IA tem contribuído para:
 
 ⚡ Aumentar a produtividade na criação e revisão de casos de teste
+
 🔍 Identificar cenários de teste e riscos com mais rapidez
+
 🧠 Apoiar na análise de requisitos e regras de negócio
+
 🧹 Melhorar a organização e clareza da documentação de testes
+
 💻 Auxiliar na escrita de lógica de programação e automação de testes
+
 📊 Acelerar investigações durante análise de defeitos
+
 
 Acredito que a Inteligência Artificial é uma grande aliada do QA moderno, permitindo que possamos focar cada vez mais em análise crítica, qualidade do produto e melhoria contínua dos processos.
 
