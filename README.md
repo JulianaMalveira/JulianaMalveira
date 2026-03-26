@@ -102,6 +102,8 @@ Acredito que a **Inteligência Artificial é uma grande aliada do QA moderno**, 
 
 ## 🧰 Ferramentas e Tecnologias
 
+![AI](https://img.shields.io/badge/AI-Productivity-purple)
+
 ![Azure DevOps](https://img.shields.io/badge/Ferramenta-Azure_DevOps-blue)
 ![HP ALM](https://img.shields.io/badge/Ferramenta-HP_ALM-blue)
 ![CRM Microsoft Dynamics 365](https://img.shields.io/badge/Ferramenta-Microsoft_Dynamics_365-blue)
