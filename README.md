@@ -15,9 +15,11 @@ LinkedIn: https://www.linkedin.com/in/juliana-malveira-mba/
 
 Email: ju.analista@gmail.com
 
-
+---
 
 ## 📄 Currículo
+
+Você pode baixar meu currículo completo no link abaixo:
 
 [![Download CV](https://img.shields.io/badge/Download-Currículo_PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Juliana_Malveira_QA.pdf)
 
