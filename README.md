@@ -150,6 +150,12 @@ https://www.linkedin.com/pulse/como-intelig%C3%AAncia-artificial-tem-transformad
 </p>
 
 
+## 🐍 Contribuições no GitHub
+
+<p align="center">
+<img src="https://github.com/JulianaMalveira/JulianaMalveira/blob/output/github-contribution-grid-snake.svg">
+</p>
+
 ## 👀 Visitantes do perfil
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SEUUSUARIO\&color=blue)
