@@ -54,19 +54,13 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 ## 🔎 Principais empresas onde trabalhei:
 
-🤝 Oi/Telemar
-
-🤝 TV Globo
-
-🤝 Porto Seguro
-
-🤝 Mills
-
-🤝 Accenture
-
-🤝 CSC / DXC Technology
-
-🤝 DB
+🏢 Oi / Telemar
+🏢 TV Globo
+🏢 Porto Seguro
+🏢 Mills
+🏢 Accenture
+🏢 CSC / DXC Technology
+🏢 DB
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -89,7 +83,7 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 ![Testes Mobile](https://img.shields.io/badge/Testes-Mobile_Testing-brightgreen)
 
 ![Lógica de Programação](https://img.shields.io/badge/Estudos-Lógica_de_Programação-yellowgreen)
-![Java Script](https://img.shields.io/badge/Estudos-Java_Script-yellowgreen)
+![JavaScript](https://img.shields.io/badge/Estudos-JavaScript-yellowgreen)
 ![Postman](https://img.shields.io/badge/Estudos-Postman-yellowgreen)
 ![Cypress](https://img.shields.io/badge/Estudos-Cypress-yellowgreen)
 
@@ -111,7 +105,7 @@ Minha atuação é focada em antecipar riscos, identificar falhas críticas e co
 
 ## 👀 Visitantes do perfil
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEUUSUARIO\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=julianamalveira\&color=blue)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
