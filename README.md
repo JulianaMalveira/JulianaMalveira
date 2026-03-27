@@ -1,7 +1,7 @@
 # Olá, eu sou Juliana Malveira 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Testes+Funcionais;Testes+Manuais;Testes+Exploratórios;Testes+E2E;Testes+de+API;Homologação;Gestão+de+testes" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Testes+Funcionais;Shifting+left;Testes+Manuais;Testes+Exploratórios;Testes+E2E;Testes+de+API;Homologação;Gestão+de+testes" />
 </p>
 
 <p align="center">
