@@ -21,7 +21,7 @@ Email: ju.analista@gmail.com
 
 Você pode baixar meu currículo completo no link abaixo:
 
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://raw.githubusercontent.com/JulianaMalveira/JulianaMalveira/main/Juliana_Malveira_QA.pdf)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge)](https://raw.githubusercontent.com/JulianaMalveira/JulianaMalveira/main/Juliana Malveira_QA.pdf)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
