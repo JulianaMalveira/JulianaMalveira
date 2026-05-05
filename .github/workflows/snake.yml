@@ -19,11 +19,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.5.0
         with:
           github_user_name: JulianaMalveira
-          outputs: dist/github-contribution-grid-snake.svg
-          cache-key: v2
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=0969da&color_dots=0969da,0969da,0969da,0969da,0969da
 
       - name: Push snake to output branch
         uses: peaceiris/actions-gh-pages@v4
